@@ -1,1 +1,1 @@
-# Plant_Disease__Detection
+# Plant_Disease_Detection
